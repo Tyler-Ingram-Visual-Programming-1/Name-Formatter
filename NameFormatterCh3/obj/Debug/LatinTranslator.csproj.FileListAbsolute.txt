@@ -1,0 +1,10 @@
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\bin\Debug\NameFormatterCh3.exe.config
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\bin\Debug\NameFormatterCh3.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\bin\Debug\NameFormatterCh3.pdb
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\obj\Debug\LatinTranslator.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\obj\Debug\NameFormatterCh3.Form1.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\obj\Debug\NameFormatterCh3.Properties.Resources.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\obj\Debug\LatinTranslator.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\obj\Debug\LatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\obj\Debug\NameFormatterCh3.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\NameFormatterCh3\NameFormatterCh3\obj\Debug\NameFormatterCh3.pdb
